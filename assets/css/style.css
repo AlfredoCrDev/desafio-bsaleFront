@@ -1,0 +1,58 @@
+.head h1 {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 15px;
+  background-color: #ff6815;
+  color: #666666;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+#category ul {
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+}
+
+.img-card-top {
+  width: 15vw;
+  height: 29vh;
+}
+
+h5 {
+  text-transform: uppercase;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+
+#navbarDarkDropdownMenuLink{
+  color: black;
+}
+
+.formSeach {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.card {
+  align-items: center;
+  justify-content: center;
+}

@@ -24,6 +24,6 @@ Link del repositorio:
 https://github.com/Alfredocrd/desafio-bsale
 
 ## Frontend:
-> Para construir el Front de la aplicacion se utilizo HMTL, JavaScript, Bootstrap y hoja de estilo personal.
-> Hoja de estilo personal dentro de /assets/css/style.css
-> Hoja de funcionalidad de la pagina en Javascript dentro de /assets/js/index.js
+Para construir el Front de la aplicacion se utilizo HMTL, JavaScript, Bootstrap y hoja de estilo personal.  
+Hoja de estilo personal dentro de /assets/css/style.css.  
+Hoja de funcionalidad de la pagina en Javascript dentro de /assets/js/index.js  
